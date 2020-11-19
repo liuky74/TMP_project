@@ -1,5 +1,5 @@
 from torchvision.datasets import mnist
-from alexnet import AlexNet
+from models.alexnet import AlexNet
 import time
 import torch
 import numpy as np
